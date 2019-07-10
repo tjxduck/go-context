@@ -5,8 +5,7 @@ import (
 	"io"
 	"testing"
 	"time"
-
-	context "golang.org/x/net/context"
+	"context"
 )
 
 func TestReader(t *testing.T) {
